@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [Work in progress, but I have something in Medium](Work in progress, but I have something in Medium)
 
-- 💬 Ask me about **React, Vue, Git**
+- 💬 Ask me about **React, Vue, Git...**
 
 - 📄 Know about my experiences [Visit my Linkedin =)](Visit my Linkedin =))
 

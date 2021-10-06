@@ -13,11 +13,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ElenaMLopez](https://github.com/ElenaMLopez)
 
-- 📝 I regularly write articles on [Work in progress, but I have something in Medium](Work in progress, but I have something in Medium)
+- 📝 I regularly write articles on [Work in progress, but I have something on Medium]
 
 - 💬 Ask me about **React, Vue, Git...**
 
-- 📄 Know about my experiences [Visit my Linkedin =)](Visit my Linkedin =))
+- 📄 Know about my experiences [visit my Linkedin](https://linkedin.com/in/https://www.linkedin.com/in/elena-mateos-lopez/)
 
 - ⚡ Fun fact **Yes, Im a really funny person =)**
 

@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ElenaMLopez](https://github.com/ElenaMLopez)
 
-- 📝 I regularly write articles on [Work in progress, but I have something on Medium]
+- 📝 I regularly write articles on [Work in progress, but I have something at Medium]
 
 - 💬 Ask me about **React, Vue, Git...**
 

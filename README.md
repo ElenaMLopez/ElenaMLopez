@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elenamlopez" alt="elenamlopez" /></a> </p>
 
-- 🔭 I’m currently working as **Frontend developer**
+- 🔭 I’m currently working as **Frontend Developer**
 
 - 🌱 I’m currently learning **Kubernetes, Bash scripting, Clean code and software architecture**
 
-- 👯 I’m looking to collaborate on **Nice projects to save the planet**
+- 👯 I’m looking to collaborate on **projects to improve our planet**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ElenaMLopez](https://github.com/ElenaMLopez)
 

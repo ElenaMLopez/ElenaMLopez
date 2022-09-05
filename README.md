@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elenamlopez&theme=chalk" alt="elenamlopez" width="50%" /></a> </p>
 
-- 🔭 I’m currently working as **Frontend Developer**
+- 🔭 I’m currently working as **Frontend Developer** & "iOS Developer" with amazing people 
 
 - 🌱 I’m currently learning **Kubernetes, Bash scripting, Clean code and software architecture**
 

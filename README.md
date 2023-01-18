@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **React, Vue, Git...**
 
-- 📄 Know about my experiences [visit my Linkedin](https://linkedin.com/in/https://www.linkedin.com/in/elena-mateos-lopez/)
+- 📄 Know about my experiences [visit my Linkedin](https://www.linkedin.com/in/elena-mateos-lopez/)
 
 - ⚡ Fun fact **Yes, Im a really funny person =)**
 
